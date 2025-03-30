@@ -18,5 +18,5 @@ A simple web application that allows users to search for images using an externa
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/image-search-app.git
+   git clone https://github.com/akshatgupta06/image-search-app.git
    cd image-search-app
